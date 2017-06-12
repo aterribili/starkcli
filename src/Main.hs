@@ -1,8 +1,14 @@
 {-# LANGUAGE QuasiQuotes #-}
+
+module Main (
+  main,
+) where
+
+
 import System.Environment (getArgs)
 import System.Console.Docopt
 import Control.Monad (when)
-import Data.List.Utils
+import Component (newComponent)
 
 usageText :: Docopt
 usageText = [docopt|
@@ -20,7 +26,6 @@ main = do
   args <- parseArgsOrExit usageText =<< getArgs
 
   when (args `isPresent` (command "new")) $ do
-    file <- args `getArgOrExit` (argument "name")
-    contents <- readFile "component"
-    writeFile (file ++ ".js") (replace "{ComponentName}" file contents)
+    name <- args `getArgOrExit` (argument "name")
+    writeFile (name ++ ".js") (newComponent name)
 
