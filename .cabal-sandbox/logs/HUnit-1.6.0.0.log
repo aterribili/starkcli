@@ -1,0 +1,16 @@
+cabal: Entering directory '/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/cabal-tmp-25243/HUnit-1.6.0.0'
+Configuring HUnit-1.6.0.0...
+Building HUnit-1.6.0.0...
+Preprocessing library HUnit-1.6.0.0...
+[1 of 6] Compiling Test.HUnit.Terminal ( src/Test/HUnit/Terminal.hs, dist/dist-sandbox-117d5c2c/build/Test/HUnit/Terminal.o )
+[2 of 6] Compiling Test.HUnit.Lang  ( src/Test/HUnit/Lang.hs, dist/dist-sandbox-117d5c2c/build/Test/HUnit/Lang.o )
+[3 of 6] Compiling Test.HUnit.Base  ( src/Test/HUnit/Base.hs, dist/dist-sandbox-117d5c2c/build/Test/HUnit/Base.o )
+[4 of 6] Compiling Test.HUnit.Text  ( src/Test/HUnit/Text.hs, dist/dist-sandbox-117d5c2c/build/Test/HUnit/Text.o )
+[5 of 6] Compiling Test.HUnit       ( src/Test/HUnit.hs, dist/dist-sandbox-117d5c2c/build/Test/HUnit.o )
+[6 of 6] Compiling Paths_HUnit      ( dist/dist-sandbox-117d5c2c/build/autogen/Paths_HUnit.hs, dist/dist-sandbox-117d5c2c/build/Paths_HUnit.o )
+Creating package registration file:
+/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/pkgConf-HUnit-1.6.019427277221083454666.0
+Installing library in
+/Users/aterribili/dev/starkcli/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/HUnit-1.6.0.0-F165Ngv75NiGmJtBpw4iK4
+Registering HUnit-1.6.0.0...
+cabal: Leaving directory '/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/cabal-tmp-25243/HUnit-1.6.0.0'

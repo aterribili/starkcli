@@ -1,0 +1,15 @@
+cabal: Entering directory '/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/cabal-tmp-25243/regex-compat-0.95.1'
+Configuring regex-compat-0.95.1...
+Building regex-compat-0.95.1...
+Preprocessing library regex-compat-0.95.1...
+[1 of 1] Compiling Text.Regex       ( Text/Regex.hs, dist/dist-sandbox-117d5c2c/build/Text/Regex.o )
+
+Text/Regex.hs:50:1: warning: [-Wtabs]
+    Tab character found here, and in 24 further locations.
+    Please use spaces instead.
+Creating package registration file:
+/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/pkgConf-regex-compat-0.951137623865997389814.1
+Installing library in
+/Users/aterribili/dev/starkcli/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/regex-compat-0.95.1-9zL84REirJ8IqzNN3W039k
+Registering regex-compat-0.95.1...
+cabal: Leaving directory '/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/cabal-tmp-25243/regex-compat-0.95.1'

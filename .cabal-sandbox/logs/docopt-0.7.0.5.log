@@ -1,0 +1,20 @@
+cabal: Entering directory '/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/cabal-tmp-23191/docopt-0.7.0.5'
+Configuring docopt-0.7.0.5...
+Building docopt-0.7.0.5...
+Preprocessing library docopt-0.7.0.5...
+[ 1 of 10] Compiling System.Console.Docopt.Types ( System/Console/Docopt/Types.hs, dist/dist-sandbox-117d5c2c/build/System/Console/Docopt/Types.o )
+[ 2 of 10] Compiling System.Console.Docopt.QQ.Instances ( System/Console/Docopt/QQ/Instances.hs, dist/dist-sandbox-117d5c2c/build/System/Console/Docopt/QQ/Instances.o )
+[ 3 of 10] Compiling System.Console.Docopt.ApplicativeParsec ( System/Console/Docopt/ApplicativeParsec.hs, dist/dist-sandbox-117d5c2c/build/System/Console/Docopt/ApplicativeParsec.o )
+[ 4 of 10] Compiling System.Console.Docopt.ParseUtils ( System/Console/Docopt/ParseUtils.hs, dist/dist-sandbox-117d5c2c/build/System/Console/Docopt/ParseUtils.o )
+[ 5 of 10] Compiling System.Console.Docopt.OptParse ( System/Console/Docopt/OptParse.hs, dist/dist-sandbox-117d5c2c/build/System/Console/Docopt/OptParse.o )
+[ 6 of 10] Compiling System.Console.Docopt.UsageParse ( System/Console/Docopt/UsageParse.hs, dist/dist-sandbox-117d5c2c/build/System/Console/Docopt/UsageParse.o )
+[ 7 of 10] Compiling System.Console.Docopt.Public ( System/Console/Docopt/Public.hs, dist/dist-sandbox-117d5c2c/build/System/Console/Docopt/Public.o )
+[ 8 of 10] Compiling System.Console.Docopt.NoTH ( System/Console/Docopt/NoTH.hs, dist/dist-sandbox-117d5c2c/build/System/Console/Docopt/NoTH.o )
+[ 9 of 10] Compiling System.Console.Docopt.QQ ( System/Console/Docopt/QQ.hs, dist/dist-sandbox-117d5c2c/build/System/Console/Docopt/QQ.o )
+[10 of 10] Compiling System.Console.Docopt ( System/Console/Docopt.hs, dist/dist-sandbox-117d5c2c/build/System/Console/Docopt.o )
+Creating package registration file:
+/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/pkgConf-docopt-0.7.018171295601131570933.5
+Installing library in
+/Users/aterribili/dev/starkcli/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/docopt-0.7.0.5-7cv9p0ePrvLFv209QqjqUE
+Registering docopt-0.7.0.5...
+cabal: Leaving directory '/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/cabal-tmp-23191/docopt-0.7.0.5'

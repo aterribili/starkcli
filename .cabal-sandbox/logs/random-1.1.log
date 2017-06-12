@@ -1,0 +1,15 @@
+cabal: Entering directory '/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/cabal-tmp-25246/random-1.1'
+Configuring random-1.1...
+Building random-1.1...
+Preprocessing library random-1.1...
+[1 of 1] Compiling System.Random    ( System/Random.hs, dist/dist-sandbox-117d5c2c/build/System/Random.o )
+
+System/Random.hs:43:1: warning: [-Wtabs]
+    Tab character found here, and in 74 further locations.
+    Please use spaces instead.
+Creating package registration file:
+/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/pkgConf-random-11108728549685118024.1
+Installing library in
+/Users/aterribili/dev/starkcli/.cabal-sandbox/lib/x86_64-osx-ghc-8.0.2/random-1.1-9tceXaeYIMZ4JrKq20Egog
+Registering random-1.1...
+cabal: Leaving directory '/var/folders/c_/5989hd79191ggc39lbpcr1fr0000gp/T/cabal-tmp-25246/random-1.1'
